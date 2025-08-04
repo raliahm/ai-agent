@@ -1,0 +1,19 @@
+# Core Computer Vision Libraries
+opencv-python>=4.8.0
+mediapipe>=0.10.3
+numpy>=1.21.0
+
+# System Control
+pyautogui>=0.9.54
+
+# Visualization and Debugging
+rerun-sdk>=0.15.0
+
+# Utility Libraries
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Optional: AI/ML Libraries (if needed for future enhancements)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
